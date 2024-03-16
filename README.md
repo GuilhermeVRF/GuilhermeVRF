@@ -1,14 +1,13 @@
 
+# Olá!!! Me chamo Guilherme!
 
-### Olá!!! Me chamo Guilherme Victor!
-
-### Sobre mim
+## Sobre mim
 - Tenho 18 anos e moro em Ouro Branco - MG. Atualmente estou no 3° período da faculdade de **Sistemas de Informação** no [IFMG](https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao). A computação me fascina muito, principalmente a arquitetura e organização dos computadores e os sistemas operacionais. Me interesso mais para a programação voltada para o **back-end** e os conceitos de Algoritmos e estrutura de dados, POO e banco de dados são os que gosto demais de aprender e praticar.
-### Venha me conhecer 
+## Venha me conhecer 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/GuilhermeVRF_)
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-victor-rodrigues-de-figueir%C3%AAdo-221030269/)
 
-### Tecnologias
+## Tecnologias
 
 #### Familiariazado: 
 
@@ -23,3 +22,4 @@
 ### Aprendendo:
 
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+
