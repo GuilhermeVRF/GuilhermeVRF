@@ -1,7 +1,7 @@
 
 ## Olá!!! Me chamo Guilherme!
 
-- Tenho 18 anos e moro em Ouro Branco - MG. Atualmente estou no 3° período da faculdade de **Sistemas de Informação** no [IFMG](https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao). Sou bastante curioso por como o computador funciona, e adoro programar e resolver problemas!!!
+- Tenho 18 anos e moro em Ouro Branco - MG. Atualmente estou no 3° período da faculdade de **Sistemas de Informação** no [IFMG](https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao). Sou bastante curioso por como o computador funciona, adoro programar e resolver problemas!!!
 
 ## Rede social
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/GuilhermeVRF_)
