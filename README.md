@@ -1,5 +1,5 @@
 
-# Olá!!! Me chamo Guilherme!
+## Olá!!! Me chamo Guilherme!
 
 - Tenho 18 anos e moro em Ouro Branco - MG. Atualmente estou no 3° período da faculdade de **Sistemas de Informação** no [IFMG](https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao). Sou bastante curioso por como o computador funciona, e adoro programar e resolver problemas!!!
 
