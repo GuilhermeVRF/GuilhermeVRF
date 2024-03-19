@@ -19,7 +19,7 @@
 
 
 </div>
-<h2 align="center">Contato</h2>
+<h2 align="center">Redes sociais</h2>
 
 <div align="center">
 
