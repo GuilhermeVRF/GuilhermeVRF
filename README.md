@@ -1,7 +1,6 @@
 # Olá!!! Me chamo Guilherme!
 
 <img src="https://i.pinimg.com/564x/1d/e3/b9/1de3b9798c7a32592adbddda384316cc.jpg" alt="OLD-PC" width="200"/>
-
 - Atualmente estou no 3° período da faculdade de **Sistemas de Informação** no [IFMG](https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao). 
 
 ## Rede social
