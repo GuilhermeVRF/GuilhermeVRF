@@ -1,6 +1,6 @@
 # Olá!!! Me chamo Guilherme!
 
-<img src="https://i.pinimg.com/564x/af/dc/c7/afdcc70e1fb830c9e406d021eb40f2c5.jpg" alt="OLD-PC" width="200"/>
+<img src="[https://i.pinimg.com/564x/af/dc/c7/afdcc70e1fb830c9e406d021eb40f2c5.jpg](https://i.pinimg.com/564x/1d/e3/b9/1de3b9798c7a32592adbddda384316cc.jpg)" alt="OLD-PC" width="200"/>
 
 - Atualmente estou no 3° período da faculdade de **Sistemas de Informação** no [IFMG](https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao). 
 
