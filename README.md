@@ -39,7 +39,7 @@
 
 </div>
 
-<h2>Estatísticas</h2>
+<h2 align="center">Estatísticas</h2>
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeVRF&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
