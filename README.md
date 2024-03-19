@@ -1,5 +1,7 @@
 # Olá!!! Me chamo Guilherme!
-![Old-PC](https://i.pinimg.com/564x/c7/45/2e/c7452e5da9801d0f828f096b653442a5.jpg)
+
+<img src="https://i.pinimg.com/564x/af/dc/c7/afdcc70e1fb830c9e406d021eb40f2c5.jpg" alt="OLD-PC" width="200"/>
+
 - Atualmente estou no 3° período da faculdade de **Sistemas de Informação** no [IFMG](https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao). 
 
 ## Rede social
@@ -16,6 +18,7 @@
 ### Familiariazado: 
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
@@ -25,5 +28,7 @@
 ### Aprendendo:
 
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+
+
 
 
