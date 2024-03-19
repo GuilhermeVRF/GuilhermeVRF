@@ -1,4 +1,4 @@
-## Olá!!! Me chamo Guilherme!
+<p align="left">Olá me chamo Guilherme e souum graduando em Sistemas de Informação no [IFMG](https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao)</p>
 
 - Atualmente estou no 3° período da faculdade de **Sistemas de Informação** no [IFMG](https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao). 
 
