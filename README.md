@@ -1,4 +1,4 @@
-<img src="https://github.com/GuilhermeVRF/GuilhermeVRF/assets/98266333/11e8b942-75dd-4bf8-8bb3-88a72adb45b0)" min-width="200px" max-width="200px" width="200px" align="right"/>
+<img src="https://i.pinimg.com/564x/41/2c/e3/412ce3df0f31b7e3ebc84f06dfec8f97.jpg" min-width="200px" max-width="200px" width="200px" align="right"/>
 
 <p align="left">Olá me chamo Guilherme e sou graduando em <b>Sistemas de Informação</b> no <a href= "https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao">IFMG</a>.</p>
 
