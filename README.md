@@ -3,10 +3,15 @@
 
 <p align="left">📜Graduando em <b>Sistemas de Informação</b> no <a href= "https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao">IFMG.</a>
 <br>  
+  
   🖥️Curioso por como funcionado o computador <br>
+  
   🗔 Interessado pela área de Sistemas Operacionais <br>
+  
   💾 Gosto de mexer com banco de dados, e áreas relacionadas a dados <br>
+  
   👨🏻‍💻 Gosto de programar para back-end
+  
 </p>
 
 <b>Rede social</b>
