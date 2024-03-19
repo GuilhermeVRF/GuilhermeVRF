@@ -25,7 +25,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/GuilhermeVRF_)
 
-<h2Tecnologias</h2>
+<h2>Tecnologias</h2>
 
 <h3>Familiariazado:</h3> 
 
