@@ -1,6 +1,6 @@
-<p align="left">Olá me chamo Guilherme e souum graduando em Sistemas de Informação no [IFMG](https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao)</p>
+<p align="left">Olá me chamo Guilherme e souum graduando em Sistemas de Informação no <a href= "https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao">IFMG</a></p>
 
-- Atualmente estou no 3° período da faculdade de **Sistemas de Informação** no [IFMG](https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao). 
+- Atualmente estou no 3° período da faculdade de **Sistemas de Informação** no . 
 
 ## Rede social
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/GuilhermeVRF_)
