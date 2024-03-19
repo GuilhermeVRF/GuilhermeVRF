@@ -15,13 +15,10 @@
   
 </p>
 </div>
-<h2>Rede social</h2>
+<h2>Contato</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/GuilhermeVRF_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-victor-rodrigues-de-figueir%C3%AAdo-221030269/) 
-
-<h2>Contato</h2>
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/GuilhermeVRF_)
 
 <h2>Tecnologias</h2>
