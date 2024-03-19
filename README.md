@@ -1,16 +1,16 @@
 <h1>Olá! Me chamo Guilherme!</h1>
 
 <div>
-<img src="https://i.pinimg.com/564x/41/2c/e3/412ce3df0f31b7e3ebc84f06dfec8f97.jpg" min-width="200px" max-width="200px" width="250px" align="right"/>
+<img src="https://i.pinimg.com/564x/41/2c/e3/412ce3df0f31b7e3ebc84f06dfec8f97.jpg" width="250px" align="right"/>
 
 <p align="left">📜Graduando em <b>Sistemas de Informação</b> no <a href= "https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao">IFMG.</a>
 <br>  
   
-  🖥️Curioso por como funcionado o computador <br>
+  🖥️Curioso por como funciona o computador <br>
   
   🗔 Interessado pela área de Sistemas Operacionais <br>
   
-  💾 Gosto de mexer com banco de dados, e áreas relacionadas a dados <br>
+  💾 Gosto de mexer com áreas relacionadas a dados<br>
   
   👨🏻‍💻 Gosto de programar para back-end
   
