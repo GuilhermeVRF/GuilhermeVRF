@@ -17,7 +17,7 @@
 
 
 </div>
-<h2 align="right">Contato</h2>
+<h2 align="center">Contato</h2>
 
 <div align="center">
 
