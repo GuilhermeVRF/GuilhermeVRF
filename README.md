@@ -23,7 +23,7 @@
 
 <h2>Tecnologias</h2>
 
-<div align="right">
+<div align="center">
   
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
@@ -36,7 +36,9 @@
 
 <h2>Estatísticas</h2>
 <div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeVRF&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 </div>
 
 
