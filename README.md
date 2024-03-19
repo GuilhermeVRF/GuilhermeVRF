@@ -1,16 +1,15 @@
 <h1 align="center">Olá! Me chamo Guilherme!</h1>
 
 <div>
-<img src="https://github.com/GuilhermeVRF/GuilhermeVRF/assets/98266333/86376d22-cbde-4c69-9143-3370ad36e6ec"  height = "200px" width="auto" align="center"/>
+<img src="https://github.com/GuilhermeVRF/GuilhermeVRF/assets/98266333/86376d22-cbde-4c69-9143-3370ad36e6ec"  height = "200px" width="auto" align="right"/>
 
-<p align="left">📜Graduando em <b>Sistemas de Informação</b> no <a href= "https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao">IFMG.</a>
-<br>  
+<p align="center">📜Graduando em <b>Sistemas de Informação</b> no <a href= "https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao">IFMG.</a>
+
+  🖥️Curioso por como funciona o computador 
   
-  🖥️Curioso por como funciona o computador <br>
+  🗔 Interessado pela área de Sistemas Operacionais 
   
-  🗔 Interessado pela área de Sistemas Operacionais <br>
-  
-  💾 Gosto de mexer com áreas relacionadas a dados<br>
+  💾 Gosto de mexer com áreas relacionadas a dados
   
   👨🏻‍💻 Gosto de programar para back-end
   
