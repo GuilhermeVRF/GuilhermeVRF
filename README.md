@@ -1,12 +1,14 @@
-<img src="https://i.pinimg.com/564x/94/16/e9/9416e90c33c02fd4045c10b636785d2e.jpg" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://github.com/GuilhermeVRF/GuilhermeVRF/assets/98266333/11e8b942-75dd-4bf8-8bb3-88a72adb45b0)" min-width="200px" max-width="200px" width="200px" align="right"/>
 
 <p align="left">Olá me chamo Guilherme e sou graduando em <b>Sistemas de Informação</b> no <a href= "https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao">IFMG</a>.</p>
 
 Rede social
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/GuilhermeVRF_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-victor-rodrigues-de-figueir%C3%AAdo-221030269/) 
 
 Contato
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/GuilhermeVRF_)
 
 Tecnologias
