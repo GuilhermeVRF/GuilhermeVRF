@@ -1,7 +1,7 @@
 <h1>Olá! Me chamo Guilherme!</h1>
 
 <div>
-<img src="https://i.pinimg.com/564x/41/2c/e3/412ce3df0f31b7e3ebc84f06dfec8f97.jpg" width="250px" align="right"/>
+<img src="https://github.com/GuilhermeVRF/GuilhermeVRF/assets/98266333/86376d22-cbde-4c69-9143-3370ad36e6ec" width="250px" align="right"/>
 
 <p align="left">📜Graduando em <b>Sistemas de Informação</b> no <a href= "https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao">IFMG.</a>
 <br>  
