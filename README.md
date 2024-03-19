@@ -26,7 +26,7 @@
 
 <h2>Tecnologias</h2>
 
-<div align="left">
+<div>
   
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
@@ -35,8 +35,10 @@
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+
 </div>
 <div align="rigth">
+  
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuilhermeVRF&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 </div>
