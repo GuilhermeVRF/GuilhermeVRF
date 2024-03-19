@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/94/16/e9/9416e90c33c02fd4045c10b636785d2e.jpg" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.pinimg.com/564x/94/16/e9/9416e90c33c02fd4045c10b636785d2e.jpg" min-width="200px" max-width="200px" width="200px" align="right">
 
 <p align="left">Olá me chamo Guilherme e sou graduando em <b>Sistemas de Informação</b> no <a href= "https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao">IFMG</a>.</p>
 
