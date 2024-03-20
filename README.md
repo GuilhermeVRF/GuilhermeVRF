@@ -16,10 +16,10 @@
   👨🏻‍💻 Gosto de programar para back-end
   
 </p>
+</div>
 
 <br>
 
-</div>
 <h2 align="center">Redes sociais</h2>
 
 <div align="center">
