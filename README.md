@@ -9,7 +9,7 @@
 
   🖥️Curioso por como funciona o computador 
   
-  🗔 Interessado pela área de Sistemas Operacionais 
+  🗔 Interessado pela área de dados
   
   💾 Gosto de mexer com áreas relacionadas a dados
   
