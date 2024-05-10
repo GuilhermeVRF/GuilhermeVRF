@@ -9,8 +9,6 @@
 
   🖥️Curioso por como funciona o computador 
   
-  🗔 Interessado pela área de dados
-  
   💾 Gosto de mexer com áreas relacionadas a dados
   
   👨🏻‍💻 Gosto de programar para back-end
