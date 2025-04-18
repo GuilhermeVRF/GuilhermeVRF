@@ -5,13 +5,11 @@
 
 <p align="left">
   
-  📜Graduando em <b>Sistemas de Informação</b> no <a href= "https://www.ifmg.edu.br/ourobranco/nossos-cursos/graduacao-6/sistemas-de-informacao">IFMG.</a>
+  📜 Graduando em Sistemas de Informação pelo IFMG - Campus Ouro Branco
 
-  🖥️Curioso por como funciona o computador 
-  
-  💾 Gosto de mexer com áreas relacionadas a dados
-  
-  👨🏻‍💻 Gosto de programar para back-end
+  🖥️ Apaixonado por tecnologia e por entender como as coisas funcionam por trás dos sistemas
+
+  👨🏻‍💻 Atuo como desenvolvedor full-stack, com maior interesse em desafios de back-end, arquitetura de software e boas práticas de código
   
 </p>
 </div>
